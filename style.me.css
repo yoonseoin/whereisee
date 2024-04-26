@@ -1,0 +1,30 @@
+header {
+	background-color: ;
+	background: linear-gradient(#EC54A8, #F6E1ED);
+	text-align: center;
+}
+
+article{
+	background-color: #F0A8D0;
+	padding: 10px;
+	display:inline-flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+
+section {
+	line-height: 25px;
+	background-color: #FBEFFB;
+	border: 2px dotted black;
+	width: 330px;
+	height: 867px;
+	border-radius: 20px;
+	margin-bottom: 10px;
+	text-align: center;
+	word-break: keep-all;
+}
+
+section > img {
+	box-shadow: 0px 0px 10px 10px #F5A9E1;
+}
