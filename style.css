@@ -11,29 +11,29 @@
 }
 header {
 	background-color: lightyellow;
-	font-size: 30px;
+	font-size: 30vw;
 	
 }
 .a {
-	width: 500px;
-	height: 500px;
-	border-radius: 250px;
+	width: 100px;
+	height: 100px;
+	border-radius: 50px;
 	background:linear-gradient(green, yellow);
 	position: absolute;
-	top: 200px;
-	left: 100px;
-	font-size: 100px;
+	top: 40px;
+	left: 20px;
+	font-size: 20px;
 	text-decoration-line: underline;
 }
 .b {
-	width: 500px;
-	height: 500px;
-	border-radius: 250px;
+	width: 100px;
+	height: 100px;
+	border-radius: 50px;
 	background:linear-gradient(deeppink, lightpink);
 	position: absolute;
-	top: 200px;
-	left: 700px;
-	font-size: 100px;
+	top: 40px;
+	left: 140px;
+	font-size: 20px;
 	text-decoration-line: underline;
 }
 li {
