@@ -1,6 +1,6 @@
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 700px) {
 	body {
-		background-color: lightblue; 
+		background-color: lightblue;
 	}
  	p {
  		font-size: 20px;
@@ -11,7 +11,7 @@
 }
 header {
 	background-color: lightyellow;
-	font-size: 30px;
+	font-size: 25px;
 	
 }
 .a {
@@ -20,9 +20,9 @@ header {
 	border-radius: 80px;
 	background:linear-gradient(green, yellow);
 	position: absolute;
-	top: 100px;
-	left: 50px;
-	font-size: 30px;
+	top: 50px;
+	left: 20px;
+	font-size: 20px;
 	text-decoration-line: underline;
 }
 .b {
@@ -31,9 +31,9 @@ header {
 	border-radius: 80px;
 	background:linear-gradient(deeppink, lightpink);
 	position: absolute;
-	top: 100px;
-	left: 200px;
-	font-size: 30px;
+	top: 50px;
+	left: 70px;
+	font-size: 20px;
 	text-decoration-line: underline;
 }
 li {
