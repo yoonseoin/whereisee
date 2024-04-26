@@ -2,16 +2,13 @@
 	body {
 		background-color: lightblue;
 	}
- 	p {
- 		font-size: 20px;
- 	}
  }
 * {
 	text-align: center;
 }
 header {
 	background-color: lightyellow;
-	font-size: 25px;
+	font-size: 15px;
 	
 }
 .a {
@@ -20,7 +17,7 @@ header {
 	border-radius: 80px;
 	background:linear-gradient(green, yellow);
 	position: absolute;
-	top: 50px;
+	top: 100px;
 	left: 20px;
 	font-size: 20px;
 	text-decoration-line: underline;
@@ -31,8 +28,8 @@ header {
 	border-radius: 80px;
 	background:linear-gradient(deeppink, lightpink);
 	position: absolute;
-	top: 50px;
-	left: 70px;
+	top: 100px;
+	left: 190px;
 	font-size: 20px;
 	text-decoration-line: underline;
 }
